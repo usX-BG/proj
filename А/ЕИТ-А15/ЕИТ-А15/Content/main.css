@@ -1,0 +1,10 @@
+﻿body {
+    background-color: aquamarine;
+}
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border:1px solid black;
+}

@@ -1,0 +1,5 @@
+22.12.2018|Subotica|Sombor|68
+23.12.2018|Sombor|Subotica|68
+19.05.2019|Subotica|Beograd|350
+20.05.2018|Beograd|Subotica|350
+16.05.2021.|Subotica|Nis|452

@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Prikaz";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var i = 1;
+}
+
+<table id="prikazT">
+    <tr>
+        <th>Registracioni broj</th>
+        <th>Marka vozila</th>
+        <th>Godina proizvodnje</th>
+        <th>Ukupno predjeno kilometara</th>
+    </tr>
+
+    @foreach (ЕИТ_А15.Models.Vozilo vozila in Model)
+    {
+        <tr>
+            <td id="reg@(i++)">@vozila.registracija</td>
+            <td>@vozila.marka</td>
+            <td>@vozila.god_p</td>
+            <td>@vozila.UkupanPut().ToString()</td>
+        </tr>
+    }
+</table>
+@using (Html.BeginForm("Prikaz", "Vozila"))
+{
+    <input id="filter" name="filter" type="text" />
+}
+@Html.ActionLink("Evidencija", "Index", "Vozila")

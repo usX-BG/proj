@@ -1,0 +1,5 @@
+NI123|Lada Niva|2001|bela
+SO123|Buba|2010|zuta
+SU234|Jugo|2003|crna
+SU456|Mazda|1999|crna
+SU678|Toyota|2005|crvena

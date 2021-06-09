@@ -1,0 +1,100 @@
+﻿@import "resetstyle.css";
+
+body {
+    background-image: url("../img/srbija-bg.jpg");
+    background-repeat: no-repeat;
+    background-size:33.5%;
+    background-position-x: center;
+}
+
+.flag img{
+    width:48px;
+}
+
+.state-name {
+    font-size:11px;
+    background-color: #c9d4d4;
+    display:inline;
+    font-weight: bold;
+    cursor:pointer;
+}
+
+.state {
+    width: 64px;
+    height:55px;
+    background-color: #404040;
+    text-align: center;
+}
+
+.header {
+    height:30px;
+    display:block;
+    background-color:#404040;
+}
+
+.header ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header ul li {
+    list-style: none;
+}
+
+.header ul li a {
+    color:ActiveCaption;
+    font-size: 18px;
+    line-height:28px;
+    padding-left: 15px;
+    text-decoration: none;
+}
+
+.header ul li :hover {
+    opacity:0.4;
+}
+
+.container {
+    background-color: #c9d4d4;
+    width:40%;
+    height:300px;
+    margin: 0 auto;
+    margin-top:20px;
+    text-align:center;
+    font-weight: bolder;
+    font-size:20px;
+}
+
+/*--------------------------------------------------*/
+#madjarska {
+    margin-left:700px;
+}
+
+#rumunija {
+    margin-left:950px;
+}
+
+#hrvatska {
+    margin-left:637px;
+    margin-top: 50px;
+}
+#bih {
+    margin-top: 220px;
+    margin-left: 637px;
+}
+#bugarska {
+    margin-left:1200px;
+}
+
+#cg {
+    margin-top:150px;
+    margin-left:670px;
+}
+
+#albanija {
+    margin-top:70px;
+    margin-left:770px;
+}
+
+#makedonija {
+    margin-left:1050px;
+}

@@ -1,0 +1,6 @@
+D:\ШКОЛА\4_РАЗРЕД\Веб_Програмирање\_ПРИПРЕМА_ЗА_МАТУРУ\ЕИТ-А10\Zadatak\Zadatak\bin\Zadatak.dll
+D:\ШКОЛА\4_РАЗРЕД\Веб_Програмирање\_ПРИПРЕМА_ЗА_МАТУРУ\ЕИТ-А10\Zadatak\Zadatak\bin\Zadatak.pdb
+D:\ШКОЛА\4_РАЗРЕД\Веб_Програмирање\_ПРИПРЕМА_ЗА_МАТУРУ\ЕИТ-А10\Zadatak\Zadatak\obj\Debug\Zadatak.csprojResolveAssemblyReference.cache
+D:\ШКОЛА\4_РАЗРЕД\Веб_Програмирање\_ПРИПРЕМА_ЗА_МАТУРУ\ЕИТ-А10\Zadatak\Zadatak\obj\Debug\Zadatak.dll
+D:\ШКОЛА\4_РАЗРЕД\Веб_Програмирање\_ПРИПРЕМА_ЗА_МАТУРУ\ЕИТ-А10\Zadatak\Zadatak\obj\Debug\Zadatak.pdb
+D:\ШКОЛА\4_РАЗРЕД\Веб_Програмирање\_ПРИПРЕМА_ЗА_МАТУРУ\ЕИТ-А10\Zadatak\Zadatak\bin\DatePickerControl.dll

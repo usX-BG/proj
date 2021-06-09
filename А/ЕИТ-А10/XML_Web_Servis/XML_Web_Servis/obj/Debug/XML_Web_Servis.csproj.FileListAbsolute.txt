@@ -1,0 +1,5 @@
+D:\ШКОЛА\4_РАЗРЕД\Веб_Програмирање\_ПРИПРЕМА_ЗА_МАТУРУ\ЕИТ-А10\XML_Web_Servis\XML_Web_Servis\obj\Debug\XML_Web_Servis.csprojResolveAssemblyReference.cache
+D:\ШКОЛА\4_РАЗРЕД\Веб_Програмирање\_ПРИПРЕМА_ЗА_МАТУРУ\ЕИТ-А10\XML_Web_Servis\XML_Web_Servis\bin\XML_Web_Servis.dll
+D:\ШКОЛА\4_РАЗРЕД\Веб_Програмирање\_ПРИПРЕМА_ЗА_МАТУРУ\ЕИТ-А10\XML_Web_Servis\XML_Web_Servis\bin\XML_Web_Servis.pdb
+D:\ШКОЛА\4_РАЗРЕД\Веб_Програмирање\_ПРИПРЕМА_ЗА_МАТУРУ\ЕИТ-А10\XML_Web_Servis\XML_Web_Servis\obj\Debug\XML_Web_Servis.dll
+D:\ШКОЛА\4_РАЗРЕД\Веб_Програмирање\_ПРИПРЕМА_ЗА_МАТУРУ\ЕИТ-А10\XML_Web_Servis\XML_Web_Servis\obj\Debug\XML_Web_Servis.pdb

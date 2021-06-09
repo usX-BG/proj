@@ -1,0 +1,4 @@
+22.10.2018|Subotica|Zajecar|350
+23.10.2018|Zajecar|Subotica|350
+19.03.2019|Subotica|Novi Sad|180
+20.03.2019|Novi Sad|Subotica|180

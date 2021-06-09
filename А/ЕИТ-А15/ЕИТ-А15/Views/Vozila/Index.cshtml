@@ -1,0 +1,38 @@
+﻿@{
+    if(!this.IsPost){
+        ViewBag.check = "";   
+    }
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<ЕИТ_А15.Models.Vozilo> vozila = new List<ЕИТ_А15.Models.Vozilo>();
+    string[] red = File.ReadAllLines(@"D:\ШКОЛА\4_РАЗРЕД\Веб_Програмирање\_ПРИПРЕМА_ЗА_МАТУРУ\ЕИТ-А15\ЕИТ-А15\baza\vozila.txt");
+    for(int i = 0;i<red.Length;i++){
+        string registracija, marka, god_p, boja;
+        string[] tmp = red[i].Split('|');
+        for(int j = 0;j<tmp.Length;j++){
+            tmp[j] = tmp[j].TrimStart(' ');
+            tmp[j] = tmp[j].TrimEnd(' ');
+        }
+        registracija = tmp[0];
+        marka = tmp[1];
+        god_p = tmp[2];
+        boja = tmp[3];
+        vozila.Add(new ЕИТ_А15.Models.Vozilo(registracija, marka, god_p, boja));
+    }
+}
+@using (Html.BeginForm("Index", "Vozila"))
+{
+    <label>Odaberi vozilo:</label><select name="reg">
+        @for (int i = 0; i < vozila.Count; i++)
+        {
+            <option value="@vozila[i].registracija">@vozila[i].registracija</option>
+        }
+    </select><br />
+    <label>Datum:</label><input name="datum" /><br />
+    <label>Krenuo:</label><input name="krenuo" /><br />
+    <label>Isao do:</label><input name="isao_do" /><br />
+    <label>Predjeni kilometri:</label><input name="km" /><br />
+    <button type="submit">Snimi</button><br />
+}
+<p>@ViewBag.check</p><br /><br />
+@Html.ActionLink("Prikaz", "Prikaz", "Vozila")

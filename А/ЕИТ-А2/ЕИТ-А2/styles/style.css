@@ -1,0 +1,77 @@
+﻿@import "resetstyle.css";
+
+body {
+    background-color: #83e490;
+}
+
+.container {
+    width: 640px;
+    height: 480px;
+    background-color:#e0efeb;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.container-head {
+    text-align: center;
+}
+
+#head-img {
+    width: 320px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.img-bottom {
+    width:64px;
+    height: 40px;
+    cursor:pointer;
+}
+
+.container-img {
+    font-size:0;
+    margin-top:25px;
+}
+
+#head-img-title {
+    margin-top:5px;
+}
+
+.header {
+    height:50px;
+    background-color:#827a7a;
+    font-size: 20px;
+}
+
+ul {
+    line-height: 45px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+ul li a {
+    text-decoration: none;
+    color: #e0efeb;
+}
+
+ul li{
+    list-style: none;
+    padding-left:15px;
+}
+
+ul li a:hover {
+    opacity: 0.4;
+}
+
+#autor {
+    font-family:'Ariston Cirilica';
+    font-size: 20px;
+}
+
+#autor-img {
+    background-image:url("../img/direktor.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
