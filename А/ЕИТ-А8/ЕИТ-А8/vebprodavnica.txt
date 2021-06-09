@@ -1,0 +1,13 @@
+100000graficka kartica         Intel               512MBdual core      Kamer1    Ekra1     "img\graficka2.jpg"           10000     
+100001graficka kartica         AMD                 1GB  dual core      Kamer2    Ekra1     "img\graficka3.jpg"           20000     
+100002graficka kartica         Cyrix               2GB  quad core      Kamer2    Ekra1     "img\graficka4.jpg"           30000     
+100003zvucna kartica           Game Blaster        512MBcore i7        Kamer2    Ekra2     "img\zvucna1.jpg"             40000     
+100004zvucna kartica           AdLib               512MBcore i5        Kamer3    Ekra2     "img\zvucna2.jpg"             50000     
+100005zvucna kartica           AdLib               2GB  quad core      Kamer3    Ekra3     "img\zvucna3.jpg"             60000     
+100054tv kartica               Intex               512MBsolo core      Kamer1    Ekra1     "img\tv1.jpg"                 10000     
+102501tv kartica               Intex               1GB  core i3        Kamer2    Ekra1     "img\tv2.jpg"                 20000     
+100362tv kartica               Intex               2GB  solo core      Kamer2    Ekra1     "img\tv3.jpg"                 30000     
+111003ram memorija             Hyper               512MBcore i3        Kamer2    Ekra2     "img\ram1.jpg"                40000     
+122004ram memorija             Kingston            512MBquad core      Kamer3    Ekra2     "img\ram2.jpg"                50000     
+102205ram memorija             Kingston            2GB  solo core      Kamer3    Ekra3     "img\ram3.jpg"                60000     
+102385maticna ploca            Asus                2GB  quad core      Kamer3    Ekra3     "img\maticna.jpg"             15000     

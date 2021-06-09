@@ -1,0 +1,7 @@
+20.12.2015|Nis|Subotica|512
+05.09.2016|Nis|Beograd|365
+19.07.2018|Nis|Leskovac|198
+25.04.2021.|Subotica|Novi Sad|103
+17.08.2020.|Sutomore|Palic|952
+25.04.2020.|Novi Sad|Subotica|107
+28.09.2021.|Beograd|Novi Sad|150

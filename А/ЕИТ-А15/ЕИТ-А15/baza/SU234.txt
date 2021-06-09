@@ -1,0 +1,4 @@
+20.12.2015|Subotica|Sombor|68
+23.12.2015|Sombor|Subotica|68
+19.07.2018|Subotica|Leskovac|612
+20.07.2018|Leskovac|Subotica|612

@@ -1,0 +1,7 @@
+22.10.2018|Sombor|Subotica|68
+23.10.2018|Subotica|Sombor|68
+19.03.2019|Sombor|Novi Sad|120
+20.03.2019|Novi Sad|Sombor|120
+13.04.2019|Sombot|Svetozar Miletic|20
+13.04.2019|Svetozar Miletic|Sombor|20
+05.06.2021.|Bajmok|Subotica|25
