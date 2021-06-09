@@ -1,0 +1,56 @@
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.exe.config
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.exe
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.pdb
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.Form1.resources
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.PrijavaPasa.resources
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.exe
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.pdb
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.SpisakPasa.resources
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.SpisakPasaPoRasi.resources
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.UnosIzlozbe.resources
+d:\PrivatniCasovi\PrivatniAleksa\C#\zadaciBaza\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.exe.config
+d:\PrivatniCasovi\PrivatniAleksa\C#\zadaciBaza\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.exe
+d:\PrivatniCasovi\PrivatniAleksa\C#\zadaciBaza\Srdjan zadaci\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.pdb
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.exe.config
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.exe
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.pdb
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.exe
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.pdb
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.csprojResolveAssemblyReference.cache
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.Form1.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.PrijavaPasa.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.Properties.Resources.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.SpisakPasa.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.SpisakPasaPoRasi.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.UnosIzlozbe.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.csproj.GenerateResource.Cache
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.exe.config
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.exe
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.pdb
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.exe
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.pdb
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.csprojResolveAssemblyReference.cache
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.Form1.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.PrijavaPasa.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.Properties.Resources.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.SpisakPasa.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.SpisakPasaPoRasi.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.UnosIzlozbe.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaterijalZaDjake\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.csproj.GenerateResource.Cache
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.exe.config
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.exe
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.pdb
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.exe
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\bin\Debug\B1B2-Izlozbe pasa.pdb
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.csprojResolveAssemblyReference.cache
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.Form1.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.PrijavaPasa.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.Properties.Resources.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.SpisakPasa.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.SpisakPasaPoRasi.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2_Izlozbe_pasa.UnosIzlozbe.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\MaturaCas\B12\B1B2-Izlozbe pasa\B1B2-Izlozbe pasa\obj\Debug\B1B2-Izlozbe pasa.csproj.GenerateResource.Cache
