@@ -1,0 +1,11 @@
+C:\Users\vukas\OneDrive\Радна површина\C#\B3\B3\bin\Debug\B3.exe.config
+C:\Users\vukas\OneDrive\Радна површина\C#\B3\B3\bin\Debug\B3.exe
+C:\Users\vukas\OneDrive\Радна површина\C#\B3\B3\bin\Debug\B3.pdb
+C:\Users\vukas\OneDrive\Радна површина\C#\B3\B3\obj\Debug\B3.Form1.resources
+C:\Users\vukas\OneDrive\Радна површина\C#\B3\B3\obj\Debug\B3.Properties.Resources.resources
+C:\Users\vukas\OneDrive\Радна површина\C#\B3\B3\obj\Debug\B3.csproj.GenerateResource.Cache
+C:\Users\vukas\OneDrive\Радна површина\C#\B3\B3\obj\Debug\B3.exe
+C:\Users\vukas\OneDrive\Радна површина\C#\B3\B3\obj\Debug\B3.pdb
+C:\Users\vukas\OneDrive\Радна површина\C#\B3\B3\obj\Debug\B3.Glumci.resources
+C:\Users\vukas\OneDrive\Радна површина\C#\B3\B3\obj\Debug\B3.Zanrovi_i_glumci.resources
+C:\Users\vukas\OneDrive\Радна површина\C#\B3\B3\obj\Debug\B3.csprojResolveAssemblyReference.cache

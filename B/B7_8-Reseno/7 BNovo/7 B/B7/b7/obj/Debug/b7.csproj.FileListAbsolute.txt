@@ -1,0 +1,11 @@
+D:\7 B\b7\b7\bin\Debug\b7.exe.config
+D:\7 B\b7\b7\bin\Debug\b7.exe
+D:\7 B\b7\b7\bin\Debug\b7.pdb
+D:\7 B\b7\b7\obj\Debug\b7.csprojResolveAssemblyReference.cache
+D:\7 B\b7\b7\obj\Debug\b7.Form1.resources
+D:\7 B\b7\b7\obj\Debug\b7.Properties.Resources.resources
+D:\7 B\b7\b7\obj\Debug\b7.csproj.GenerateResource.Cache
+D:\7 B\b7\b7\obj\Debug\b7.exe
+D:\7 B\b7\b7\obj\Debug\b7.pdb
+D:\7 B\b7\b7\obj\Debug\b7.Destinacije.resources
+D:\7 B\B7\b7\obj\Debug\b7.Aranzman.resources
